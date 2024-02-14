@@ -26,4 +26,4 @@ Based on challenge in <a href="https://www.frontendmentor.io/challenges/blog-pre
 </ul>
 
 ## Do you want to see?
-<a href="">Open Here :dart:</a>
+<a href="https://65cd51f21d0ba6245704c34b--mellow-maamoul-081f8c.netlify.app/">Open Here :dart:</a>
