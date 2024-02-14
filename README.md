@@ -21,7 +21,7 @@ Based on challenge in <a href="https://www.frontendmentor.io/challenges/blog-pre
     CSS Styling
 </li>
 <li>
-    Table tags
+    Box Shadow
 </li>
 </ul>
 
